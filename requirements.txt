@@ -1,0 +1,14 @@
+aequitas==0.42.0
+lightgbm
+matplotlib
+numpy
+optuna
+optuna-dashboard
+pandas
+pyjoules
+scikit-learn
+scipy
+scikit-posthocs
+seaborn
+snntorch
+torch

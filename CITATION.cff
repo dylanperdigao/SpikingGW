@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite its respective paper: TBD"
+authors:
+- family-names: "Perdigão"
+  given-names: "Dylan"
+  orcid: "https://orcid.org/0000-0001-6923-900X"
+title: "SpikingGW"
+version: 1.0.1
+doi: TBD
+date-released: 2026-08-21
+url: "https://github.com/dylanperdigao/SpikingGW"
